@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ThietBiDiDong">
         <activity
+            android:name=".MainActivity1_d"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity1_c"
             android:exported="false" />
         <activity
