@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/trant/StudioProjects/ThietBiDiDong/app/src/main/res/drawable/border_layout3.xml" value="0.1945" />
         <entry key="..\:/Users/trant/StudioProjects/ThietBiDiDong/app/src/main/res/drawable/bordertext.xml" value="0.1945" />
         <entry key="..\:/Users/trant/StudioProjects/ThietBiDiDong/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/trant/StudioProjects/ThietBiDiDong/app/src/main/res/layout/activity_main_activity1.xml" value="0.18" />
         <entry key="..\:/Users/trant/StudioProjects/ThietBiDiDong/app/src/main/res/layout/activity_main_activity1_b.xml" value="0.18" />
+        <entry key="..\:/Users/trant/StudioProjects/ThietBiDiDong/app/src/main/res/layout/activity_main_activity1_c.xml" value="0.18" />
       </map>
     </option>
   </component>
