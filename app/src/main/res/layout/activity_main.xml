@@ -85,7 +85,7 @@
         android:id="@+id/btn_1c"
         android:layout_width="107dp"
         android:layout_height="55dp"
-        android:layout_marginStart="164dp"
+        android:layout_marginStart="148dp"
         android:layout_marginTop="164dp"
         android:backgroundTint="#3F51B5"
         android:text="1_c"

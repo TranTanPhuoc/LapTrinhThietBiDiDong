@@ -29,35 +29,35 @@ public class MainActivity extends AppCompatActivity {
         btn1b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,MainActivity1_a.class);
+                Intent intent = new Intent(MainActivity.this,MainActivity1_b.class);
                 startActivity(intent);
             }
         });
         btn1c.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,MainActivity1_a.class);
+                Intent intent = new Intent(MainActivity.this,MainActivity1_c.class);
                 startActivity(intent);
             }
         });
         btn1d.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,MainActivity1_a.class);
+                Intent intent = new Intent(MainActivity.this,MainActivity1_d.class);
                 startActivity(intent);
             }
         });
         btn1e.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,MainActivity1_a.class);
+                Intent intent = new Intent(MainActivity.this,MainActivity1_e.class);
                 startActivity(intent);
             }
         });
         btn1f.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(MainActivity.this,MainActivity1_a.class);
+                Intent intent = new Intent(MainActivity.this,MainActivity1_f.class);
                 startActivity(intent);
             }
         });
